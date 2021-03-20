@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Other stream",
+      "description": "here is some stream",
+      "id": 1
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "No using history object to change route back to list of streams",
+      "userId": "102382073151251170000",
+      "id": 2
+    },
+    {
+      "title": "Should have a userId",
+      "description": "Test - no user Id",
+      "id": 3
+    },
+    {
+      "title": "Created with my google userId",
+      "description": "update5",
+      "userId": "102382073151251162078",
+      "id": 4
+    },
+    {
+      "title": "new stream with new id",
+      "description": "555",
+      "userId": "102382073151251162078",
+      "id": 5
+    }
+  ]
+}
