@@ -13,3 +13,8 @@ To run the streaming app:
 - then run `npm start` in each folder to start each instance
 - client should automatically open in your browser on `localhost:3000`
 
+What can be done: 
+- sign in with Google OAuth
+- CRUD operations. Streams can be: created, deleted, edited
+- I streamed my desktop via a custom OBS stream (https://obsproject.com/) for testing. I set the stream to be the ith element in the array
+
